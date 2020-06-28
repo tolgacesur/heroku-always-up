@@ -1,0 +1,9 @@
+{
+    "name": "Heroku Always Up",
+    "description": "Keep always available the free dyno heroku application you want.",
+    "keywords": [
+        "heroku",
+        "free-dyno",
+        "always up"
+    ]
+}
