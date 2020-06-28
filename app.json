@@ -5,5 +5,10 @@
         "heroku",
         "free-dyno",
         "always up"
+    ],
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        }
     ]
 }
